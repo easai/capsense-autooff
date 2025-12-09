@@ -10,6 +10,9 @@ led_state = False
 auto_off_delay = 60   # seconds before auto shut-off
 last_on_time = 0
 
+led[0]=(0,0,0)
+led.write()
+
 while True:
     if touch.value() == 1:
         led_state = not led_state
