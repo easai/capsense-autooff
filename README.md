@@ -1,5 +1,7 @@
 # CapSense AutoOff
 
+<img src="https://github.com/easai/capsense-autooff/blob/main/IMG_2615.jpeg" width=300 />
+
 ## Overview
 CapSense AutoOff is a touch‑activated lighting solution powered by the RP2040 Zero. A capacitive sensor connected to GPIO15 lets you switch a NeoPixel on and off with a single touch. Built‑in auto shutoff ensures the light turns off after a set delay, saving power and adding convenience.
 
