@@ -41,3 +41,4 @@ Benefits
 2. Connect the NeoPixel to GPIO16 with appropriate power and ground.
 3. Load the MicroPython script onto the RP2040 Zero.
 4. Touch the sensor to toggle the NeoPixel. It will turn off automatically after the configured delay.
+5. Save the script as main.py on the RP2040 Zero so it runs automatically at startup.
